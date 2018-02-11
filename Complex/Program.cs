@@ -11,7 +11,7 @@ namespace Complex
         static void Main(string[] args)
         {
             Complex c1 = new Complex(1, 6);
-            Complex c2 = new Complex(1, 6);
+            Complex c2 = new Complex(2, 3);
 
             Complex result = c1 + c2;
 

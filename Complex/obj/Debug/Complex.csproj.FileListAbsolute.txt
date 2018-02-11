@@ -5,3 +5,10 @@ C:\Users\Acer\source\repos\Complex\Complex\obj\Debug\Complex.csprojResolveAssemb
 C:\Users\Acer\source\repos\Complex\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
 C:\Users\Acer\source\repos\Complex\Complex\obj\Debug\Complex.exe
 C:\Users\Acer\source\repos\Complex\Complex\obj\Debug\Complex.pdb
+C:\Users\Acer\Desktop\Complex\Complex\bin\Debug\Complex.exe.config
+C:\Users\Acer\Desktop\Complex\Complex\bin\Debug\Complex.exe
+C:\Users\Acer\Desktop\Complex\Complex\bin\Debug\Complex.pdb
+C:\Users\Acer\Desktop\Complex\Complex\obj\Debug\Complex.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Complex\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Complex\Complex\obj\Debug\Complex.exe
+C:\Users\Acer\Desktop\Complex\Complex\obj\Debug\Complex.pdb
