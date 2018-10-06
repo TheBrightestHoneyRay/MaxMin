@@ -1,3 +1,3 @@
 public class Task3_2 {
-    public void main(String[] args){}
+    public static void main(String[] args){}
 }
